@@ -1,0 +1,11 @@
+.App {
+  background: red;
+  height: 100vh;
+  background: rgb(63, 94, 251);
+  background: radial-gradient(circle, rgb(63,94,251,1) 0%,rgb(252,94,107,1) 100%  );
+}
+
+.image-width{
+  width: 80%;
+}
+
